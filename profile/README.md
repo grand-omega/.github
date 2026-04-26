@@ -3,12 +3,12 @@
 Focused AI tools that run on hardware you already own.
 Local, self-hosted, single-user.
 
-### What we build
+## What we build
 
 - **Project ZUN** — a local image editing stack on FLUX.1 Fill and FLUX 2 klein. Inference and LoRA training on a single consumer GPU, with a Rust API server and an Android client.
 - **Project Matrie** *(in development)* — AI bout analysis for competitive fencers and their coaches.
 
-### Learn more
+## Learn more
 
 **→ [grand-omega.github.io](https://grand-omega.github.io)** for the full story, design philosophy, and project details.
 
