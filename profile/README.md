@@ -12,4 +12,4 @@ Local, self-hosted, single-user.
 
 **→ [grand-omega.github.io](https://grand-omega.github.io)** for the full story, design philosophy, and project details.
 
-Or jump straight to the code: [project-zun](https://github.com/grand-omega/project-zun) · [zun-rust-server](https://github.com/grand-omega/zun-rust-server) · [zun-android-app](https://github.com/grand-omega/zun-android-app).
+Or jump straight to the code: [zun-flux-pipeline](https://github.com/grand-omega/zun-flux-pipeline) · [zun-rust-server](https://github.com/grand-omega/zun-rust-server) · [zun-android-app](https://github.com/grand-omega/zun-android-app).
