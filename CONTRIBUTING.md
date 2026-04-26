@@ -1,6 +1,6 @@
-# Contributing to Grand Omega
+# Contributing to Grand Ωmega
 
-Thank you for your interest in contributing! Grand Omega is a small, focused project (currently a one-person operation), and community help is appreciated.
+Thank you for your interest in contributing! Grand Ωmega is a small, focused project (currently a one-person operation), and community help is appreciated.
 
 ## How to Contribute
 

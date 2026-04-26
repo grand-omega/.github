@@ -1,4 +1,4 @@
-# Grand Omega
+# Grand Ωmega
 
 Focused AI tools that run on hardware you already own.
 Local, self-hosted, single-user.
